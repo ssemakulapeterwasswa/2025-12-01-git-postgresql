@@ -1,0 +1,9 @@
+name: 513_practice
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - jupyterlab
+  - ipython
+  - numpy
+
