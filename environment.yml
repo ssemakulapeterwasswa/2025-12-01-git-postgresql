@@ -7,4 +7,6 @@ dependencies:
   - ipython
   - numpy
   - ipython-sql
+  - psycopg2
+  - prettytable[version='<3.10']
 
