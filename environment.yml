@@ -6,4 +6,5 @@ dependencies:
   - jupyterlab
   - ipython
   - numpy
+  - ipython-sql
 
